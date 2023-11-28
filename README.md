@@ -1,0 +1,2 @@
+# amagyei
+Static Webpage Tutorial
